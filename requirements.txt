@@ -1,0 +1,7 @@
+ipython[all]
+matplotlib
+numpy
+scipy
+
+# Open AI Gym
+gym
